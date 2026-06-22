@@ -1,0 +1,79 @@
+{
+  "stream_url": "https://casthttps.suaradionanet.net./10070/stream",
+  "app_name": "Rádio Padre Pedro 104,9 FM",
+  "logo_url": "https://i.ibb.co/spKhGGMd/ba1ca8ec-965a-407a-92c2-e05842a91f41.jpg",
+  "background_url": "https://i.ibb.co/gbn8M1dR/8a29d543b2ece2079b9e1d3f8e71857b.jpg",
+  "bg_tint_color": "#00254d",
+  "bg_tint_opacity": 0.75,
+  "live_badge_text": " Ao Vivo",
+  "live_badge_color": "#001940",
+  "accent_color": "#000d13",
+  "autoplay": true,
+  "enable_banners": true,
+  "enable_social": true,
+  "enable_recording": true,
+  "enable_timer": true,
+  "enable_volume_bar": true,
+  "enable_metadata": true,
+  "enable_album_art": false,
+  "enable_album_view": true,
+  "banner_interval_ms": 7000,
+  "sponsor_label": "Colaboradores",
+  "banners": [
+    {
+      "title": "PATROCINADOR 1",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/fVGC7V0r/Whats-App-Image-2026-06-22-at-15-36-14.jpg",
+      "click_url": " "
+    },
+    {
+      "title": "PATROCINADOR 2",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/QvjwhWw4/7541a0f1-22c2-41f2-a978-3d81241a205e.jpg",
+      "click_url": ""
+    },
+    {
+      "title": "PATROCINADOR 3",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/gbWvx07q/f4afd7c7-8546-4c93-b619-0215ed2eecd4.jpg",
+      "click_url": "https://"
+    },
+    {
+      "title": "PATROCINADOR 4",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/Rk7BYvPx/6e94bf74-4990-4771-be9c-b53aa1da9b8d.jpg",
+      "click_url": "https://wa.me/"
+    },
+    {
+      "title": "",
+      "subtitle": "",
+      "bg_color": "#111111",
+      "text_color": "#FFFFFF",
+      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
+      "click_url": "https://youtube.com/"
+    }
+   
+  ],
+  "social_icons": [
+    {
+      "icon": "website",
+      "url": "https://radionovodiagospeloficial.com.br/"
+    },
+    {
+      "icon": "whatsapp",
+      "url": "https://wa.me/558899988-3599"
+    },
+    {
+      "icon": "instagram",
+      "url": "https://radionovodiagospeloficial.com.br/"
+    }
+  ]
+}
