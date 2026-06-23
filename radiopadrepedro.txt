@@ -74,6 +74,8 @@
     {
       "icon": "instagram",
       "url": "https://radionovodiagospeloficial.com.br/"
+"icon": "whatsapp",
+      "url": "https://radionovodiagospeloficial.com.br/"
     }
   ]
 }
