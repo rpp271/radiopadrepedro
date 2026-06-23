@@ -74,8 +74,8 @@
     {
       "icon": "instagram",
       "url": "https://radionovodiagospeloficial.com.br/"
-"icon": "youtube",
-      "url": "https://www.youtube.com/@PadrePedroFMdeBrejoSanto/streams"
+"icon": "Blogdaradio",
+      "url": "https://blogdaradiopadrepedrofm104.blogspot.com/"
     }
   ]
 }
