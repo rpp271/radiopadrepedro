@@ -33,7 +33,7 @@
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
       "text_color": "#000000",
-      "image_url": "https://i.ibb.co/QvjwhWw4/7541a0f1-22c2-41f2-a978-3d81241a205e.jpg",
+      "image_url": "https://i.ibb.co/Rk3zGF4X/9ac62130-8dbe-4970-9a54-55571b94356a.jpg",
       "click_url": ""
     },
     {
