@@ -58,7 +58,7 @@
       "bg_color": "#111111",
       "text_color": "#FFFFFF",
       "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
-      "click_url": "https://www.youtube.com/@PadrePedroFMdeBrejoSanto/streams"
+      "click_url": " "
     }
    
   ],
@@ -74,8 +74,8 @@
     {
       "icon": "instagram",
       "url": "https://radionovodiagospeloficial.com.br/"
-"icon": "whatsapp",
-      "url": "https://radionovodiagospeloficial.com.br/"
+"icon": "youtube",
+      "url": "https://www.youtube.com/@PadrePedroFMdeBrejoSanto/streams"
     }
   ]
 }
