@@ -1,7 +1,7 @@
 {
-  "stream_url": "http://casthttps.suaradionanet.net/10070/stream?1782322075169",
+  "stream_url": "http://suaradio2.dyndns.ws:10070/live",
   "app_name": "Rádio Padre Pedro 104,9 FM",
-  "logo_url": "https://i.ibb.co/kgT21jdy/cdaecf75-aa57-49d5-8ad1-79ce3a35e6ae.jpg",
+  "logo_url": "https://i.ibb.co/spKhGGMd/ba1ca8ec-965a-407a-92c2-e05842a91f41.jpg",
   "background_url": "https://i.ibb.co/gbn8M1dR/8a29d543b2ece2079b9e1d3f8e71857b.jpg",
   "bg_tint_color": "#00254d",
   "bg_tint_opacity": 0.70,
@@ -21,11 +21,11 @@
   "sponsor_label": "Colaboradores",
   "banners": [
     {
-  "title": "PATROCINADOR 1",
+      "title": "PATROCINADOR 1",
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
       "text_color": "#000000",
-      "image_url": "https://i.ibb.co/JwZ7y2Xx/oticacaedosoamarela.jpg",
+      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
       "click_url": " "
     },
     {
@@ -33,7 +33,7 @@
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
       "text_color": "#000000",
-      "image_url": "https://i.ibb.co/C3kns3ZP/1af4fb2e-2730-4af1-8965-e6957fdf907e.jpg",
+      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
       "click_url": ""
     },
     {
@@ -41,7 +41,7 @@
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
       "text_color": "#000000",
-      "image_url": "https://i.ibb.co/Fq7nggX4/f9f275a4-95f4-4a3d-b72b-6e6fea0be44b.jpg",
+      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
       "click_url": "https://"
     },
     {
@@ -49,7 +49,7 @@
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
       "text_color": "#000000",
-      "image_url": "https://i.ibb.co/TGMdG0R/c80fc8d2-6b61-4197-8bba-67a8af0bc8c5.jpg",
+      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
       "click_url": "https://wa.me/"
     },
     {
@@ -58,24 +58,25 @@
       "bg_color": "#111111",
       "text_color": "#FFFFFF",
       "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
-      "click_url": " "
+      "click_url": "https://youtube.com/"
     }
    
   ],
   "social_icons": [
-    {
-      "icon": "website",
-      "url": "https://radionovodiagospeloficial.com.br/"
-    },
     {
       "icon": "whatsapp",
       "url": "https://wa.me/558899988-3599"
     },
     {
       "icon": "instagram",
-      "url": "https://radionovodiagospeloficial.com.br/"
-"icon": "youtube",
-      "url": "https://www.youtube.com/@PadrePedroFMdeBrejoSanto/streams"
+      "url": "https://www.instagram.com/radiopadrepedrofm/"
+    },
+
+{
+      "icon": "youtube",
+      "url": "https://www.youtube.com/@jpdivulgacoesbs00"
     }
   ]
 }
+
+
