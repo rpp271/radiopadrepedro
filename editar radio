@@ -27,8 +27,9 @@
       "text_color": "#000000",
       "image_url": "https://i.ibb.co/v6Jtsj9M/1af4fb2e-2730-4af1-8965-e6957fdf907e.jpg",
       "click_url": " "
-    },
-    {
+   },
+  
+{
       "title": "PATROCINADOR 2",
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
@@ -36,7 +37,8 @@
       "image_url": "https://i.ibb.co/NgVqsG0x/FARMACIASANTACECILIA.jpg",
       "click_url": ""
     },
-    {
+  
+{
       "title": "PATROCINADOR 3",
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
@@ -44,7 +46,8 @@
       "image_url": "https://i.ibb.co/wN2FMrb5/11b7c698-ef8a-4044-ae3b-05b7dc67aac2.jpg",
       "click_url": "https://"
     },
-    {
+  
+{
       "title": "PATROCINADOR 4",
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
@@ -52,7 +55,8 @@
       "image_url": "https://i.ibb.co/PGrjXyBs/7a2ee95d-8a8f-4edd-b599-382b0cb685f0.jpg",
       "click_url": "https://wa.me/"
     },
-    {
+  
+{
       "title": "PATROCINADOR 5",
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
@@ -60,7 +64,8 @@
       "image_url": "https://i.ibb.co/TGMdG0R/c80fc8d2-6b61-4197-8bba-67a8af0bc8c5.jpg",
       "click_url": "https://wa.me/"
 },
- {
+
+{
       "title": "PATROCINADOR 6",
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
@@ -68,7 +73,8 @@
       "image_url": "https://i.ibb.co/Fq7nggX4/f9f275a4-95f4-4a3d-b72b-6e6fea0be44b.jpg",
       "click_url": "https://wa.me/"
 },
- {
+
+{
       "title": "PATROCINADOR 7",
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
@@ -90,8 +96,9 @@
     {
       "icon": "whatsapp",
       "url": "https://wa.me/558899988-3599"
-    },
-    {
+   },
+
+{
       "icon": "instagram",
       "url": "https://www.instagram.com/radiopadrepedrofm/"
     },
