@@ -5,7 +5,7 @@
   "background_url": "https://i.ibb.co/gbn8M1dR/8a29d543b2ece2079b9e1d3f8e71857b.jpg",
   "bg_tint_color": "#00254d",
   "bg_tint_opacity": 0.70,
-  "live_badge_text": "AOVIVO",
+  "live_badge_text": " Ao Vivo",
   "live_badge_color": "#bb0c0c",
   "accent_color": "#000d13",
   "autoplay": true,
@@ -20,7 +20,7 @@
   "banner_interval_ms": 7000,
   "sponsor_label": "Colaboradores",
   "banners": [
-     {
+    {
 "title": "PATROCINADOR 1",
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
