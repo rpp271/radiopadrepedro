@@ -21,19 +21,11 @@
   "sponsor_label": "Colaboradores",
   "banners": [
     {
-"title": "PATROCINADOR 1",
+      "title": "PATROCINADOR 1",
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
       "text_color": "#000000",
-      "image_url": "https://i.ibb.co/JwZ7y2Xx/oticacaedosoamarela.jpg",
-      "click_url": " "
-    },
-     {
-"title": "PATROCINADOR 1",
-      "subtitle": "Clique e fale no WhatsApp",
-      "bg_color": "#FDCB03",
-      "text_color": "#000000",
-      "image_url": "https://i.ibb.co/C3kns3ZP/1af4fb2e-2730-4af1-8965-e6957fdf907e.jpg",
+      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
       "click_url": " "
     },
     {
@@ -41,7 +33,7 @@
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
       "text_color": "#000000",
-      "image_url": "https://i.ibb.co/Fq7nggX4/f9f275a4-95f4-4a3d-b72b-6e6fea0be44b.jpg",
+      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
       "click_url": ""
     },
     {
@@ -49,7 +41,7 @@
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
       "text_color": "#000000",
-      "image_url": "https://i.ibb.co/TGMdG0R/c80fc8d2-6b61-4197-8bba-67a8af0bc8c5.jpg",
+      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
       "click_url": "https://"
     },
     {
@@ -57,19 +49,10 @@
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
       "text_color": "#000000",
-      "image_url": "https://i.ibb.co/W4crHQg1/logoradiopadrepedro.jpg",
+      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
       "click_url": "https://wa.me/"
     },
- {
-      "title": "PATROCINADOR 4",
-      "subtitle": "Clique e fale no WhatsApp",
-      "bg_color": "#FDCB03",
-      "text_color": "#000000",
-      "image_url": "https://i.ibb.co/vvYJWp68/logodaradiocopa2026.jpg",
-      "click_url": "https://wa.me/"
-    },
-
-  {
+    {
       "title": "",
       "subtitle": "",
       "bg_color": "#111111",
@@ -88,10 +71,12 @@
       "icon": "instagram",
       "url": "https://www.instagram.com/radiopadrepedrofm/"
     },
+
 {
       "icon": "youtube",
       "url": "https://www.youtube.com/@jpdivulgacoesbs00"
-    },
-}
+    }
   ]
 }
+
+
