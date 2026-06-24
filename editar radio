@@ -41,15 +41,15 @@
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
       "text_color": "#000000",
-      "image_url": "https://i.ibb.co/Zp64qzQC/5c552477-1816-43a3-b334-8fe9986b020d.jpg",
+      "image_url": "https://i.ibb.co/ZpB4Q1Ct/2d7e878d-355e-4172-a241-fe77c571036e.jpg",
       "click_url": "https://"
     },
     {
-      "jpdivulgacoes": "PATROCINADOR 4",
+      "titulo": "PATROCINADOR 4",
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
       "text_color": "#000000",
-      "image_url": "https://i.ibb.co/ZpB4Q1Ct/2d7e878d-355e-4172-a241-fe77c571036e.jpg",
+      "image_url": " ",
       "click_url": "https://wa.me/"
     },
 {
@@ -62,7 +62,7 @@
     },
 
 {
-      "title": "",
+   "title": "",
       "subtitle": "",
       "bg_color": "#111111",
       "text_color": "#FFFFFF",
@@ -76,15 +76,14 @@
       "icon": "whatsapp",
       "url": "https://wa.me/558899988-3599"
     },
- "icon": "blogdaradio",
-      "url": "https://blogdaradiopadrepedrofm104.blogspot.com/"
+
     {
       "icon": "instagram",
       "url": "https://www.instagram.com/radiopadrepedrofm/"
     },
 
 {
-      "icon": "youtube",
+  "icon": "youtube",
       "url": "https://www.youtube.com/@PadrePedroFMdeBrejoSanto"
     }
 
