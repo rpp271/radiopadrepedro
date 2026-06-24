@@ -46,7 +46,7 @@
       "click_url": ""
     }, 
   {
-      "texto": "PATROCINADOR 4",
+      "icon": "PATROCINADOR 4",
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
       "text_color": "#000000",
@@ -63,7 +63,7 @@
     },
 
 {
-   "title": "",
+   "icon": "",
       "subtitle": "",
       "bg_color": "#111111",
       "text_color": "#FFFFFF",
@@ -73,7 +73,8 @@
    
   ],
   "social_icons": [
-    {
+    
+{
       "icon": "whatsapp",
       "url": "https://wa.me/558899988-3599"
     },
