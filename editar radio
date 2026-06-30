@@ -128,6 +128,10 @@
       "icon": "whatsapp",
       "url": "https://wa.me/5588993436306"
     },
+{
+      "icon": "suamusica",
+      "url": "https://suamusica.com.br/biblioteca/cds"
+    }
     {
       "icon": "instagram",
       "url": "https://www.instagram.com/radiopadrepedrofm/"
@@ -136,10 +140,7 @@
       "icon": "youtube",
       "url": "https://www.youtube.com/@PadrePedroFMdeBrejoSanto"
     }
-{
-      "icon": "suamusica",
-      "url": "https://suamusica.com.br/biblioteca/cds"
-    }
+
   ]
 }
 
