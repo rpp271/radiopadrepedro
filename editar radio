@@ -84,20 +84,13 @@
       "image_url": "https://i.ibb.co/cXcNPS5Z/mercadinhosaoluizjp.jpg",
       "click_url": "https://wa.me/5588993436306"
     },
- {
-      "title": "PATROCINADOR 9",
-      "subtitle": "Clique e fale no WhatsApp",
-      "bg_color": "#FDCB03",
-      "text_color": "#000000",
-      "image_url": "https://i.ibb.co/cSKV5DPz/anafurtado.jpg",
-      "click_url": "https://wa.me/"
-    },
+
  {
       "title": "PATROCINADOR 10",
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
       "text_color": "#000000",
-      "image_url": "https://i.ibb.co/tMvqvyZP/logoradio11.jpg",
+      "image_url": " ",
       "click_url": "https://wa.me/5599988-3599"
     },
  {
@@ -139,7 +132,10 @@
       "icon": "whatsapp",
       "url": "https://wa.me/558899988-3599"
     },
- 
+ {
+      "icon": "whatsapp",
+      "url": "https://wa.me/5588993436306"
+    },
     {
       "icon": "instagram",
       "url": "https://www.instagram.com/radiopadrepedrofm/"
