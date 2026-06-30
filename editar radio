@@ -144,7 +144,10 @@
       "icon": "youtube",
       "url": "https://www.youtube.com/@PadrePedroFMdeBrejoSanto"
     }
-
+{
+      "icon": "suamusica",
+      "url": "https://www.suamusica.com.br/jpdivulgacoes"
+    }
   ]
 }
 
