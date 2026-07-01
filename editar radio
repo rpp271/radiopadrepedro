@@ -35,24 +35,8 @@
       "text_color": "#000000",
       "image_url": "https://i.ibb.co/DHbLSg7c/paulorenato1996.jpg",
       "click_url": "https://wa.me/"
-    }, 
-  
-  {
-      "title": "PATROCINADOR 8",
-      "subtitle": "Clique e fale no WhatsApp",
-      "bg_color": "#FDCB03",
-      "text_color": "#000000",
-      "image_url": "https://i.ibb.co/cXcNPS5Z/mercadinhosaoluizjp.jpg",
-      "click_url": "https://wa.me/5588993436306"
-    },
- {
-      "title": "PATROCINADOR 12",
-      "subtitle": "Clique e fale no WhatsApp",
-      "bg_color": "#FDCB03",
-      "text_color": "#000000",
-      "image_url": "https://i.ibb.co/kscYkS4t/oficinasaofranciscojp.jpg",
-      "click_url": "https://wa.me/"
-    }, 
+    },   
+ 
  {
       "title": "PATROCINADOR 13",
       "subtitle": "Clique e fale no WhatsApp",
