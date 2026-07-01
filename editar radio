@@ -35,16 +35,8 @@
       "text_color": "#000000",
       "image_url": "https://i.ibb.co/DHbLSg7c/paulorenato1996.jpg",
       "click_url": "https://wa.me/"
-    },
- 
-    {
-      "title": "PATROCINADOR 7",
-      "subtitle": "Clique e fale no WhatsApp",
-      "bg_color": "#FDCB03",
-      "text_color": "#000000",
-      "image_url": "https://i.ibb.co/5xK0FjRW/farmaciasantacecilia123.jpg",
-      "click_url": "https://wa.me/"
-    },
+    }, 
+  
   {
       "title": "PATROCINADOR 8",
       "subtitle": "Clique e fale no WhatsApp",
@@ -61,13 +53,13 @@
       "image_url": "https://i.ibb.co/kscYkS4t/oficinasaofranciscojp.jpg",
       "click_url": "https://wa.me/"
     },
- {
-      "title": "PATROCINADOR 4",
+  {
+      "title": "PATROCINADOR 7",
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
       "text_color": "#000000",
-      "image_url": "https://i.ibb.co/hF9Hy8SZ/oticacardoso011.jpg",
-      "click_url": ""
+      "image_url": "https://i.ibb.co/5xK0FjRW/farmaciasantacecilia123.jpg",
+      "click_url": "https://wa.me/"
     },
  {
       "title": "PATROCINADOR 13",
