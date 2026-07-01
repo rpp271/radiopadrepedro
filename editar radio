@@ -43,6 +43,14 @@
       "text_color": "#000000",
       "image_url": "https://i.ibb.co/MDdHBXwY/estudioradio1.jpg",
       "click_url": "https://wa.me/"
+    },
+ {
+      "title": "PATROCINADOR 2",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/YBL4BsVd/estudioradio.jpg",
+      "click_url": "https://wa.me/"
     },    
     {
       "title": "",
