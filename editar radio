@@ -7,7 +7,7 @@
   "bg_tint_opacity": 0.70,
   "live_badge_text": " Ao Vivo",
   "live_badge_color": "",
-  "accent_color": " ",
+  "accent_color": "#095248",
   "autoplay": true,
   "enable_banners": true,
   "enable_social": true,
@@ -17,14 +17,14 @@
   "enable_metadata": true,
   "enable_album_art": false,
   "enable_album_view": true,
-  "banner_interval_ms": 200,
+  "banner_interval_ms": 7000,
   "sponsor_label": "JPDIVULGACOESBS",
   "banners": [
     {
       "title": "PATROCINADOR 1",
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
-      "text_color": "#000000",
+      "text_color": " ",
       "image_url": "https://i.ibb.co/zVnrgFyC/ticorc7.jpg",
       "click_url": " "
     },
