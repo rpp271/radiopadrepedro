@@ -3,7 +3,7 @@
   "app_name": "Rádio Padre Pedro FM 104,9",
   "logo_url": "https://i.ibb.co/zT89rJxh/ligodaradioemclimadecopa-removebg-preview.png",
   "background_url": "https://i.ibb.co/yHv9rp1/logodoaplicativo.jpg",
-  "bg_tint_color": "#104740",
+  "bg_tint_color": " ",
   "bg_tint_opacity": 0.70,
   "live_badge_text": " Ao Vivo",
   "live_badge_color": "#104740",
