@@ -6,7 +6,7 @@
   "bg_tint_color": " ",
   "bg_tint_opacity": 0.70,
   "live_badge_text": " Ao Vivo",
-  "live_badge_color": "#104740",
+  "live_badge_color": "# ",
   "accent_color": " ",
   "autoplay": true,
   "enable_banners": true,
@@ -17,7 +17,7 @@
   "enable_metadata": true,
   "enable_album_art": false,
   "enable_album_view": true,
-  "banner_interval_ms": 7000,
+  "banner_interval_ms": 5000,
   "sponsor_label": "JPDIVULGACOESBS",
   "banners": [
     {
