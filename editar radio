@@ -17,7 +17,7 @@
   "enable_metadata": true,
   "enable_album_art": false,
   "enable_album_view": true,
-  "banner_interval_ms": 2000,
+  "banner_interval_ms": 9000,
   "sponsor_label": "JPDIVULGACOESBS",
   "banners": [
     {
