@@ -6,7 +6,7 @@
   "bg_tint_color": "#ffe599",
   "bg_tint_opacity": 0.70,
   "live_badge_text": "Ao Vivo",
-  "live_badge_color": "#ffe599",
+  "live_badge_color": "#ffed01",
   "accent_color": "#ff0000",
   "autoplay": true,
   "enable_banners": true,
