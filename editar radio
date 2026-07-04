@@ -4,7 +4,7 @@
   "logo_url": "https://i.ibb.co/8ny1zHWF/ligodaradioemclimadecopa-removebg-preview.png",
   "background_url": "https://i.ibb.co/cKSLYwJQ/RADIO.jpg",
   "bg_tint_color": "#003064",
-  "bg_tint_opacity": 0.10,
+  "bg_tint_opacity": 0.70,
   "live_badge_text": "Ao Vivo",
   "live_badge_color": "#ff0000",
   "accent_color": "#ff0000",
@@ -25,10 +25,17 @@
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
       "text_color": "#000000",
+      "image_url": "https://i.ibb.co/5xK0FjRW/farmaciasantacecilia123.jpg",
+      "click_url": " "
+    },
+ {
+      "title": "PATROCINADOR 1",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
       "image_url": "https://i.ibb.co/TBVW1jps/amigao01.jpg",
       "click_url": " "
     },
-
  {
       "title": "PATROCINADOR 13",
       "subtitle": "Clique e fale no WhatsApp",
@@ -42,7 +49,7 @@
       "subtitle": " ",
       "bg_color": "#111111",
       "text_color": "#FFFFFF",
-      "image_url": "https://i.ibb.co/5xK0FjRW/farmaciasantacecilia123.jpg",
+      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
       "click_url": "https://youtube.com/"
     }
    
