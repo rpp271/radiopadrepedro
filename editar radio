@@ -34,10 +34,28 @@
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
       "text_color": "#000000",
+      "image_url": "https://i.ibb.co/WNg0RF6G/mercadinhosaoluis.jpg",
+      "click_url": "https://wa.me/"
+    },
+ {
+      "title": "PATROCINADOR 1",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
       "image_url": "https://i.ibb.co/3mB0qZPC/marcenart02.jpg",
       "click_url": "https://wa.me/"
     },
+
     {
+      "title": "PATROCINADOR 13",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/v6Rm322j/fatmaciasantacecilia.jpg",
+      "click_url": "https://wa.me/"
+},
+
+{
       "title": " ",
       "subtitle": " ",
       "bg_color": "#111111",
