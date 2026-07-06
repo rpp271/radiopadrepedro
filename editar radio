@@ -20,21 +20,7 @@
   "banner_interval_ms": 7000,
   "sponsor_label": "JPDIVULGACOESBS",
   "banners": [
-    {
-      "title": "PATROCINADOR 1",
-      "subtitle": "Clique e fale no WhatsApp",
-      "bg_color": "#FDCB03",
-      "text_color": "#000000",
-      "image_url": "https://i.ibb.co/WNg0RF6G/mercadinhosaoluis.jpg",
-      "click_url": " "
-  {
-      "title": "PATROCINADOR 1",
-      "subtitle": "Clique e fale no WhatsApp",
-      "bg_color": "#FDCB03",
-      "text_color": "#000000",
-      "image_url": "https://i.ibb.co/v6Rm322j/fatmaciasantacecilia.jpg",
-      "click_url": " "
-    },   },
+  
  {
       "title": "PATROCINADOR 1",
       "subtitle": "Clique e fale no WhatsApp",
