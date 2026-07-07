@@ -1,0 +1,80 @@
+{
+  "stream_url": "http://media-ice.musicradio.com/HeartLondonMP3",
+  "app_name": "Rádio Music MIx",
+  "logo_url": "https://i.ibb.co/5W4KB1ct/Gemini-Generated-Image-45m0kt45m0kt45m0.png",
+  "background_url": "https://i.ibb.co/wNnjw8cg/74b3756dd309c326404cb9c440679034.jpg",
+  "bg_tint_color": "#00254d",
+  "bg_tint_opacity": 0.05,
+  "live_badge_text": " Ao Vivo",
+  "live_badge_color": "#09001d",
+  "accent_color": "#000d13",
+  "autoplay": true,
+  "enable_banners": true,
+  "enable_social": true,
+  "enable_recording": true,
+  "enable_timer": true,
+  "enable_volume_bar": true,
+  "enable_metadata": true,
+  "enable_album_art": false,
+  "enable_album_view": true,
+  "banner_interval_ms": 7000,
+  "sponsor_label": "Colaboradores",
+
+  "enable_tv": true,
+  "tv_url": "https://video11.logicahost.com.br/interativafm01/interativafm01/chunklist_w1032489035.m3u8",
+  "tv_label": "TV Ao Vivo",
+
+  "banners": [
+    {
+      "title": "PATROCINADOR 1",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
+      "click_url": " "
+    },
+    {
+      "title": "PATROCINADOR 2",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
+      "click_url": ""
+    },
+    {
+      "title": "PATROCINADOR 3",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
+      "click_url": "https://"
+    },
+    {
+      "title": "PATROCINADOR 4",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
+      "click_url": "https://wa.me/"
+    },
+    {
+      "title": "",
+      "subtitle": "",
+      "bg_color": "#111111",
+      "text_color": "#FFFFFF",
+      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
+      "click_url": "https://youtube.com/"
+    }
+  ],
+
+  "social_icons": [
+    {
+      "icon": "whatsapp",
+      "url": "https://wa.me/55"
+    },
+    {
+      "icon": "instagram",
+      "url": "https://www.instagram.com/"
+    }
+  ]
+}
