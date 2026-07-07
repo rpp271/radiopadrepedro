@@ -1,13 +1,13 @@
 {
   "stream_url": "https://casthttps.suaradionanet.net/10070/stream?1782322075169",
   "app_name": "Rádio Padre Pedro 104,9 FM",
-  "logo_url": "https://i.ibb.co/7hZhyLK/logodaradio-removebg-preview.png",
-  "background_url": "https://i.ibb.co/Cs6mfcPR/logoradiofundo02.jpg",
-  "bg_tint_color": "#013661",
-  "bg_tint_opacity": 0.70",
-  "live_badge_text": "Ao Vivo",
-  "live_badge_color": "#ff0000",
-  "accent_color": "#ff0000",
+  "logo_url": "https://i.ibb.co/21DhxqPD/cdaecf75-aa57-49d5-8ad1-79ce3a35e6ae.jpg",
+  "background_url": "https://i.ibb.co/PsYcXvKg/4cdbdde6-fddc-48db-af34-18c170dff826.jpg",
+  "bg_tint_color": "#00254d",
+  "bg_tint_opacity": 0.75,
+  "live_badge_text": " Ao Vivo",
+  "live_badge_color": "#001940",
+  "accent_color": "#000d13",
   "autoplay": true,
   "enable_banners": true,
   "enable_social": true,
@@ -18,69 +18,65 @@
   "enable_album_art": false,
   "enable_album_view": true,
   "banner_interval_ms": 7000,
-  "sponsor_label": "JPDIVULGACOESBS",
+  "sponsor_label": "Colaboradores",
   "banners": [
-  
- {
+    {
       "title": "PATROCINADOR 1",
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
       "text_color": "#000000",
-      "image_url": "https://i.ibb.co/TBVW1jps/amigao01.jpg",
+      "image_url": "https://i.ibb.co/RVWkSnZ/46a4c318-dd7a-40ff-9718-d3313150f473.jpg",
       "click_url": " "
     },
- {
-      "title": "PATROCINADOR 13",
-      "subtitle": "Clique e fale no WhatsApp",
-      "bg_color": "#FDCB03",
-      "text_color": "#000000",
-      "image_url": "https://i.ibb.co/WNg0RF6G/mercadinhosaoluis.jpg",
-      "click_url": "https://wa.me/"
-    },
- {
-      "title": "PATROCINADOR 1",
-      "subtitle": "Clique e fale no WhatsApp",
-      "bg_color": "#FDCB03",
-      "text_color": "#000000",
-      "image_url": "https://i.ibb.co/3mB0qZPC/marcenart02.jpg",
-      "click_url": "https://wa.me/"
-    },
-
     {
-      "title": "PATROCINADOR 13",
+      "title": "PATROCINADOR 2",
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
       "text_color": "#000000",
-      "image_url": "https://i.ibb.co/v6Rm322j/fatmaciasantacecilia.jpg",
+      "image_url": "https://i.ibb.co/Rk3zGF4X/9ac62130-8dbe-4970-9a54-55571b94356a.jpg",
+      "click_url": ""
+    },
+    {
+      "title": "PATROCINADOR 3",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/gbWvx07q/f4afd7c7-8546-4c93-b619-0215ed2eecd4.jpg",
+      "click_url": "https://"
+    },
+    {
+      "title": "PATROCINADOR 4",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/Rk7BYvPx/6e94bf74-4990-4771-be9c-b53aa1da9b8d.jpg",
       "click_url": "https://wa.me/"
-},
-
-{
-      "title": " ",
-      "subtitle": " ",
+    },
+    {
+      "title": "",
+      "subtitle": "",
       "bg_color": "#111111",
       "text_color": "#FFFFFF",
       "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
-      "click_url": "https://youtube.com/"
+      "click_url": " "
     }
    
   ],
   "social_icons": [
     {
+      "icon": "website",
+      "url": "https://radionovodiagospeloficial.com.br/"
+    },
+    {
       "icon": "whatsapp",
       "url": "https://wa.me/558899988-3599"
     },
- 
-{ "icon": "instagram",
-      "url": "https://www.instagram.com/radiopadrepedrofm/"  },
-{
-      "icon": "youtube",
-{ "url": "https://www.youtube.com/@PadrePedroFMdeBrejoSanto" },
-{ "icon": "Tiktok",
-      "url": "https://www.tiktok.com/@jpdivulgacoesbs12?_r=1&_t=ZS-97q4fFGGCzy" },
-{
-},
-
+    {
+      "icon": "instagram",
+      "url": "https://radionovodiagospeloficial.com.br/"
+"icon": "youtube",
+      "url": "https://www.youtube.com/@PadrePedroFMdeBrejoSanto/streams"
+    }
   ]
 }
 
