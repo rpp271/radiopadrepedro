@@ -1,12 +1,12 @@
 {
   "stream_url": "https://casthttps.suaradionanet.net/10070/stream?1782322075169",
-  "app_name": "Rádio Padre Pedro FM 104,9",
-  "logo_url": "https://i.ibb.co/zT89rJxh/ligodaradioemclimadecopa-removebg-preview.png",
-  "background_url": "https://i.ibb.co/yHv9rp1/logodoaplicativo.jpg",
+  "app_name": "Rádio Padre Pedro 104,9 FM",
+  "logo_url": "https://i.ibb.co/7hZhyLK/logodaradio-removebg-preview.png",
+  "background_url": "https://i.ibb.co/Cs6mfcPR/logoradiofundo02.jpg",
   "bg_tint_color": "#00254d",
-  "bg_tint_opacity": 0.70,
+  "bg_tint_opacity": 0.75,
   "live_badge_text": " Ao Vivo",
-  "live_badge_color": "#bb0c0c",
+  "live_badge_color": "#001940",
   "accent_color": "#000d13",
   "autoplay": true,
   "enable_banners": true,
@@ -18,93 +18,65 @@
   "enable_album_art": false,
   "enable_album_view": true,
   "banner_interval_ms": 7000,
-  "sponsor_label": "JPDIVULGACOESBS",
+  "sponsor_label": "Colaboradores",
   "banners": [
     {
       "title": "PATROCINADOR 1",
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
       "text_color": "#000000",
-      "image_url": "https://i.ibb.co/zVnrgFyC/ticorc7.jpg",
+      "image_url": "https://i.ibb.co/WNg0RF6G/mercadinhosaoluis.jpg",
       "click_url": " "
     },
- {
+    {
       "title": "PATROCINADOR 2",
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
       "text_color": "#000000",
-      "image_url": "https://i.ibb.co/DHbLSg7c/paulorenato1996.jpg",
-      "click_url": "https://wa.me/"
-    }, 
- {
-      "title": "PATROCINADOR 2",
+      "image_url": "https://i.ibb.co/fGqrwC31/marcenart02.jpg",
+      "click_url": ""
+    },
+    {
+      "title": "PATROCINADOR 3",
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
       "text_color": "#000000",
-      "image_url": "https://i.ibb.co/MDdHBXwY/estudioradio1.jpg",
+      "image_url": "https://i.ibb.co/v6Rm322j/fatmaciasantacecilia.jpg",
+      "click_url": "https://"
+    },
+    {
+      "title": "PATROCINADOR 4",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/PZcrSpYV/amigao01.jpg",
       "click_url": "https://wa.me/"
     },
- {
-      "title": "PATROCINADOR 2",
-      "subtitle": "Clique e fale no WhatsApp",
-      "bg_color": "#FDCB03",
-      "text_color": "#000000",
-      "image_url": "https://i.ibb.co/YBL4BsVd/estudioradio.jpg",
-      "click_url": "https://wa.me/"
-    },
- {
-      "title": "PATROCINADOR 2",
-      "subtitle": "Clique e fale no WhatsApp",
-      "bg_color": "#FDCB03",
-      "text_color": "#000000",
-      "image_url": "https://i.ibb.co/tMf0xgvz/logoradio.jpg",
-      "click_url": "https://wa.me/"
-    },
- {
-      "title": "PATROCINADOR 2",
-      "subtitle": "Clique e fale no WhatsApp",
-      "bg_color": "#FDCB03",
-      "text_color": "#000000",
-      "image_url": "https://i.ibb.co/6Rh7L3n2/marcenart.jpg",
-      "click_url": "https://wa.me/"
-    },
- {
-      "title": "PATROCINADOR 2",
-      "subtitle": "Clique e fale no WhatsApp",
-      "bg_color": "#FDCB03",
-      "text_color": "#000000",
-      "image_url": "https://i.ibb.co/bgfjPY29/oficinasaofrancisco00.jpg",
-      "click_url": "https://wa.me/"
-    },    
     {
       "title": "",
       "subtitle": "",
       "bg_color": "#111111",
       "text_color": "#FFFFFF",
-      "image_url": "https://i.ibb.co/ZzrP78jw/joaopaulo134.jpg",
-      "click_url": "https://youtube.com/"
+      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
+      "click_url": " "
     }
    
   ],
   "social_icons": [
     {
+      "icon": "website",
+      "url": "https://blogdaradiopadrepedrofm104.blogspot.com/"
+    },
+    {
       "icon": "whatsapp",
       "url": "https://wa.me/558899988-3599"
     },
-
     {
       "icon": "instagram",
-      "url": "https://www.instagram.com/radiopadrepedrofm/"
-    },
-{
-      "icon": "suamusica",
-      "url": "https://suamusica.com.br/biblioteca/cds"
-    },
-{
-      "icon": "youtube",
-      "url": "https://www.youtube.com/@PadrePedroFMdeBrejoSanto"
-    },
-
+      "url": "https://radionovodiagospeloficial.com.br/"
+"icon": "youtube",
+      "url": "https://www.youtube.com/@PadrePedroFMdeBrejoSanto/streams"
+    }
   ]
 }
 
