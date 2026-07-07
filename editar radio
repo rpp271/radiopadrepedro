@@ -4,7 +4,7 @@
   "logo_url": "https://i.ibb.co/spKhGGMd/ba1ca8ec-965a-407a-92c2-e05842a91f41.jpg",
   "background_url": "https://i.ibb.co/gbn8M1dR/8a29d543b2ece2079b9e1d3f8e71857b.jpg",
   "bg_tint_color": "#00254d",
-  "bg_tint_opacity": 0.30,
+  "bg_tint_opacity": 0.70,
   "live_badge_text": " Ao Vivo",
   "live_badge_color": "#bb0c0c",
   "accent_color": "#000d13",
@@ -61,25 +61,20 @@
       "click_url": "https://youtube.com/"
     }
    
- ],
+  ],
   "social_icons": [
     {
       "icon": "whatsapp",
       "url": "https://wa.me/558899988-3599"
     },
- {
+    {
       "icon": "instagram",
       "url": "https://www.instagram.com/radiopadrepedrofm/"
     },
+
 {
       "icon": "youtube",
       "url": "https://www.youtube.com/@jpdivulgacoesbs00"
     }
- {
-      "icon": "website",
-      "url": "https://blogdaradiopadrepedrofm104.blogspot.com/"
-    },
-
   ]
 }
-  
