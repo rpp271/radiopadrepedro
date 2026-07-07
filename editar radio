@@ -1,5 +1,5 @@
 {
-  "stream_url": "https://casthttps.suaradionanet.net/10070/stream?1782322075169",
+  "stream_url": "http://suaradio2.dyndns.ws:10070/live",
   "app_name": "Rádio Padre Pedro FM 104,9",
   "logo_url": "https://i.ibb.co/zT89rJxh/ligodaradioemclimadecopa-removebg-preview.png",
   "background_url": "https://i.ibb.co/yHv9rp1/logodoaplicativo.jpg",
@@ -85,7 +85,7 @@
       "click_url": "https://youtube.com/"
     }
    
- ],
+   ],
   "social_icons": [
     {
       "icon": "website",
