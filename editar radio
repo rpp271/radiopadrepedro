@@ -71,11 +71,14 @@
       "icon": "instagram",
       "url": "https://www.instagram.com/radiopadrepedrofm/"
     },
-
+ {
+      "icon": "website",
+      "url": "https://player.midiazdx.com.br/player-app-multi-plataforma/7050?app-multi=1773258333"
+    },
 {
       "icon": "youtube",
       "url": "https://www.youtube.com/@jpdivulgacoesbs00"
-    }
+}
   ]
 }
 
