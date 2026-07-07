@@ -67,18 +67,22 @@
  ],
   "social_icons": [
     {
-      "icon": "website",
-      "url": "https://blogdaradiopadrepedrofm104.blogspot.com/"
-    },
-    {
       "icon": "whatsapp",
       "url": "https://wa.me/558899988-3599"
     },
-    {
+ {
       "icon": "instagram",
-      "url": "https://radionovodiagospeloficial.com.br/"
-"icon": "youtube",
-      "url": "https://www.youtube.com/@PadrePedroFMdeBrejoSanto/streams"
+      "url": "https://www.instagram.com/radiopadrepedrofm/"
+    },
+{
+      "icon": "youtube",
+      "url": "https://www.youtube.com/@jpdivulgacoesbs00"
     }
+ {
+      "icon": "website",
+      "url": "https://blogdaradiopadrepedrofm104.blogspot.com/"
+    },
+
   ]
 }
+  
