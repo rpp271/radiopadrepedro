@@ -1,12 +1,12 @@
 {
   "stream_url": "https://casthttps.suaradionanet.net/10070/stream?1782322075169",
   "app_name": "Rádio Padre Pedro 104,9 FM",
-  "logo_url": "https://i.ibb.co/7hZhyLK/logodaradio-removebg-preview.png",
-  "background_url": "https://i.ibb.co/Cs6mfcPR/logoradiofundo02.jpg",
+  "logo_url": "https://i.ibb.co/zT89rJxh/ligodaradioemclimadecopa-removebg-preview.png",
+  "background_url": "https://i.ibb.co/yHv9rp1/logodoaplicativo.jpg",
   "bg_tint_color": "#00254d",
-  "bg_tint_opacity": 0.75,
+  "bg_tint_opacity": 0.70,
   "live_badge_text": " Ao Vivo",
-  "live_badge_color": "#001940",
+  "live_badge_color": "#bb0c0c",
   "accent_color": "#000d13",
   "autoplay": true,
   "enable_banners": true,
@@ -18,7 +18,7 @@
   "enable_album_art": false,
   "enable_album_view": true,
   "banner_interval_ms": 7000,
-  "sponsor_label": "Colaboradores",
+  "sponsor_label": "JPDIVULGACOESBS",
   "banners": [
     {
       "title": "PATROCINADOR 1",
