@@ -25,7 +25,7 @@
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
       "text_color": "#000000",
-      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
+      "image_url": "https://i.ibb.co/WNg0RF6G/mercadinhosaoluis.jpg",
       "click_url": " "
     },
     {
@@ -33,7 +33,7 @@
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
       "text_color": "#000000",
-      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
+      "image_url": "https://i.ibb.co/fGqrwC31/marcenart02.jpg",
       "click_url": ""
     },
     {
@@ -41,7 +41,7 @@
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
       "text_color": "#000000",
-      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
+      "image_url": "https://i.ibb.co/v6Rm322j/fatmaciasantacecilia.jpg",
       "click_url": "https://"
     },
     {
@@ -49,7 +49,7 @@
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
       "text_color": "#000000",
-      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
+      "image_url": "https://i.ibb.co/PZcrSpYV/amigao01.jpg",
       "click_url": "https://wa.me/"
     },
     {
@@ -57,7 +57,7 @@
       "subtitle": "",
       "bg_color": "#111111",
       "text_color": "#FFFFFF",
-      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
+      "image_url": "https://i.ibb.co/DHHywLX3/hugoespetinho.jpg",
       "click_url": "https://youtube.com/"
     }
    
@@ -76,9 +76,8 @@
 "url": "https://www.youtube.com/@PadrePedroFMdeBrejoSanto/streams"
 }
  {
-     "icon": "website",
-      "url": "https://blogdaradiopadrepedrofm104.blogspot.com/?m=0"
-    },
+   "icon": "website",
+      "url": "https://blogdaradiopadrepedrofm104.blogspot.com/?m=0" },
 
   ]
 }
