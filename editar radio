@@ -75,11 +75,14 @@
       "icon": "instagram",
       "url": "https://www.instagram.com/radiopadrepedrofm/"
     },
-
 {
       "icon": "youtube",
       "url": "https://www.youtube.com/@PadrePedroFMdeBrejoSanto"
-    }
+    },
+{
+      "icon": "site",
+      "url": "https://player.midiazdx.com.br/player-app-multi-plataforma/7050?app-multi=1773258333"
+    },
   ]
 }
 
