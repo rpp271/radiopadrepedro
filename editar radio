@@ -1,8 +1,8 @@
 {
   "stream_url": "https://casthttps.suaradionanet.net/10070/stream?1782322075169",
   "app_name": "Rádio Padre Pedro 104,9 FM",
-  "logo_url": "https://i.ibb.co/pqx30nj/logodaradio-removebg-preview.png",
-  "background_url": "https://i.ibb.co/nN76RxnQ/logoradiofundo02.jpg",
+  "logo_url": "https://i.ibb.co/zT89rJxh/ligodaradioemclimadecopa-removebg-preview.png",
+  "background_url": "https://i.ibb.co/yHv9rp1/logodoaplicativo.jpg",
   "bg_tint_color": "#00254d",
   "bg_tint_opacity": 0.70,
   "live_badge_text": " Ao Vivo",
@@ -18,38 +18,110 @@
   "enable_album_art": false,
   "enable_album_view": true,
   "banner_interval_ms": 7000,
-  "sponsor_label": "Colaboradores",
+  "sponsor_label": "JPDIVULGACOESBS",
   "banners": [
     {
       "title": "PATROCINADOR 1",
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
       "text_color": "#000000",
-      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
+      "image_url": "https://i.ibb.co/zVnrgFyC/ticorc7.jpg",
       "click_url": " "
     },
-    {
+ {
       "title": "PATROCINADOR 2",
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
       "text_color": "#000000",
-      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
-      "click_url": ""
+      "image_url": "https://i.ibb.co/DHbLSg7c/paulorenato1996.jpg",
+      "click_url": "https://wa.me/"
     },
-    {
+   {
       "title": "PATROCINADOR 3",
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
       "text_color": "#000000",
-      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
-      "click_url": "https://"
+      "image_url": "https://i.ibb.co/wZ9sYR6P/hugoespetinho.jpg",
+      "click_url": " "
     },
     {
       "title": "PATROCINADOR 4",
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
       "text_color": "#000000",
-      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
+      "image_url": "https://i.ibb.co/hF9Hy8SZ/oticacardoso011.jpg",
+      "click_url": ""
+    },
+  {
+      "title": "PATROCINADOR 5",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/WNdMmycW/marcenart00.jpg",
+      "click_url": ""
+    },
+    {
+      "title": "PATROCINADOR 6",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/YT8qQb4Z/georgesompropagandas.jpg",
+      "click_url": "https://"
+    },
+    {
+      "title": "PATROCINADOR 7",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/5xK0FjRW/farmaciasantacecilia123.jpg",
+      "click_url": "https://wa.me/"
+    },
+ {
+      "title": "PATROCINADOR 8",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/cXcNPS5Z/mercadinhosaoluizjp.jpg",
+      "click_url": "https://wa.me/5588993436306"
+    },
+ {
+      "title": "PATROCINADOR 9",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/cSKV5DPz/anafurtado.jpg",
+      "click_url": "https://wa.me/"
+    },
+ {
+      "title": "PATROCINADOR 10",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/tMvqvyZP/logoradio11.jpg",
+      "click_url": "https://wa.me/5599988-3599"
+    },
+ {
+      "title": "PATROCINADOR 11",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/ds5bTC5v/hospitaldosmoveis00.jpg",
+      "click_url": "https://wa.me/"
+    },
+ {
+      "title": "PATROCINADOR 12",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/kscYkS4t/oficinasaofranciscojp.jpg",
+      "click_url": "https://wa.me/"
+    },
+ {
+      "title": "PATROCINADOR 13",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/3mB0qZPC/marcenart02.jpg",
       "click_url": "https://wa.me/"
     },
     {
@@ -57,27 +129,29 @@
       "subtitle": "",
       "bg_color": "#111111",
       "text_color": "#FFFFFF",
-      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
+      "image_url": "https://i.ibb.co/ZzrP78jw/joaopaulo134.jpg",
       "click_url": "https://youtube.com/"
     }
    
   ],
   "social_icons": [
-   
     {
       "icon": "whatsapp",
       "url": "https://wa.me/558899988-3599"
     },
+ 
     {
+      "icon": "instagram",
+      "url": "https://www.instagram.com/radiopadrepedrofm/"
+    },
+
+ {
       "icon": "instagram",
       "url": "https://radionovodiagospeloficial.com.br/"
 "icon": "youtube",
       "url": "https://www.youtube.com/@PadrePedroFMdeBrejoSanto/streams"
-    }
- {
-      "icon": "website",
-      "url": "https://www.radios.com.br/aovivo/radio-padre-pedro-1049-fm/14207"
     },
-
   ]
 }
+
+
