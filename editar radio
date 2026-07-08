@@ -19,8 +19,7 @@
   "enable_album_view": true,
   "banner_interval_ms": 7000,
   "sponsor_label": "Colaboradores",
-
-"banners": [
+  "banners": [
     {
       "title": "PATROCINADOR 1",
       "subtitle": "Clique e fale no WhatsApp",
