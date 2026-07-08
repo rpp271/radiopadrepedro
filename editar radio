@@ -63,18 +63,21 @@
    
   ],
   "social_icons": [
+   
     {
       "icon": "whatsapp",
       "url": "https://wa.me/558899988-3599"
     },
     {
       "icon": "instagram",
-      "url": "https://www.instagram.com/radiopadrepedrofm/"
+      "url": "https://radionovodiagospeloficial.com.br/"
+"icon": "youtube",
+      "url": "https://www.youtube.com/@PadrePedroFMdeBrejoSanto/streams"
+    }
+ {
+      "icon": "website",
+      "url": "https://www.radios.com.br/aovivo/radio-padre-pedro-1049-fm/14207"
     },
 
-{
-      "icon": "youtube",
-      "url": "https://www.youtube.com/@jpdivulgacoesbs00"
-    }
   ]
 }
