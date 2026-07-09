@@ -72,10 +72,10 @@
       "icon": "whatsapp",
       "url": "https://wa.me/5588988553032"
     },
-  "enable_tv": true,
+}  "enable_tv": true,
   "tv_url": "https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8",
   "tv_label": "TV Ao Vivo",
-
+{
     {
       "icon": "website",
       "url": "https://player.midiazdx.com.br/player-app-multi-plataforma/7050?app-multi=1773258333"
