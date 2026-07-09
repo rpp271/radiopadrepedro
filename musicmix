@@ -1,12 +1,12 @@
 {
-  "stream_url": "http://media-ice.musicradio.com/HeartLondonMP3",
-  "app_name": "Music MIx",
-  "logo_url": "https://i.ibb.co/5W4KB1ct/Gemini-Generated-Image-45m0kt45m0kt45m0.png",
-  "background_url": "https://i.ibb.co/wNnjw8cg/74b3756dd309c326404cb9c440679034.jpg",
+  "stream_url": "https://cast7.midiazdx.com.br:7050/stream",
+  "app_name": "Rádio Music Mix",
+  "logo_url": "https://i.ibb.co/Hp3w23K0/sated-Image-9nsu2u9nsu2u9nsu.png",
+  "background_url": "https://i.ibb.co/237R9KyL/bg-image.jpg",
   "bg_tint_color": "#00254d",
   "bg_tint_opacity": 0.05,
   "live_badge_text": " Ao Vivo",
-  "live_badge_color": "#09001d",
+  "live_badge_color": "#0b1249",
   "accent_color": "#000d13",
   "autoplay": true,
   "enable_banners": true,
@@ -70,11 +70,11 @@
   "social_icons": [
     {
       "icon": "whatsapp",
-      "url": "https://wa.me/55"
+      "url": "https://wa.me/5588988553032"
     },
     {
-      "icon": "instagram",
-      "url": "https://www.instagram.com/"
+      "icon": "website",
+      "url": "https://player.midiazdx.com.br/player-app-multi-plataforma/7050?app-multi=1773258333"
     }
   ]
 }
