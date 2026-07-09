@@ -1,12 +1,12 @@
 {
   "stream_url": "https://casthttps.suaradionanet.net/10070/stream?1782322075169",
-  "app_name": "Rádio Music Mix",
+  "app_name": "Rádio Padre Pedro 104,9 FM",
   "logo_url": "https://i.ibb.co/pqx30nj/logodaradio-removebg-preview.png",
-  "background_url": "https://i.ibb.co/gbn8M1dR/8a29d543b2ece2079b9e1d3f8e71857b.jpg",
+  "background_url": "https://i.ibb.co/XrdXJhV3/bg-image-musicmix.jpg",
   "bg_tint_color": "#00254d",
   "bg_tint_opacity": 0.05,
   "live_badge_text": " Ao Vivo",
-  "live_badge_color": "#0b1249",
+  "live_badge_color": "#bb0c0c",
   "accent_color": "#000d13",
   "autoplay": true,
   "enable_banners": true,
@@ -19,18 +19,18 @@
   "enable_album_view": true,
   "banner_interval_ms": 7000,
   "sponsor_label": "Colaboradores",
-
   "enable_tv": true,
-  "tv_url": "link transmissao video",
+ 
+"tv_url": "https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8",
   "tv_label": "TV Ao Vivo",
-
-  "banners": [
+ 
+"banners": [
     {
       "title": "PATROCINADOR 1",
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
       "text_color": "#000000",
-      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
+      "image_url": "https://i.ibb.co/Q3rpBJcJ/amigao01.jpg",
       "click_url": " "
     },
     {
@@ -38,7 +38,7 @@
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
       "text_color": "#000000",
-      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
+      "image_url": "https://i.ibb.co/xtHxh5yw/fatmaciasantacecilia.jpg",
       "click_url": ""
     },
     {
@@ -46,7 +46,7 @@
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
       "text_color": "#000000",
-      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
+      "image_url": "https://i.ibb.co/CphyMxwk/marcenart02.jpg",
       "click_url": "https://"
     },
     {
@@ -54,7 +54,7 @@
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
       "text_color": "#000000",
-      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
+      "image_url": "https://i.ibb.co/zTt0sBq6/mercadinhosaoluis.jpg",
       "click_url": "https://wa.me/"
     },
     {
@@ -65,16 +65,25 @@
       "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
       "click_url": "https://youtube.com/"
     }
+   
   ],
-
   "social_icons": [
     {
       "icon": "whatsapp",
-      "url": "https://wa.me/5588988553032"
+      "url": "https://wa.me/558899988-3599"
     },
     {
+      "icon": "instagram",
+      "url": "https://www.instagram.com/radiopadrepedrofm/"
+    },
+{
       "icon": "website",
-      "url": "https://player.midiazdx.com.br/player-app-multi-plataforma/7050?app-multi=1773258333"
+      "url": "https://blogdaradiopadrepedrofm104.blogspot.com/"
+    }
+
+{
+      "icon": "youtube",
+      "url": "https://www.youtube.com/@PadrePedroFMdeBrejoSanto/streams"
     }
   ]
 }
