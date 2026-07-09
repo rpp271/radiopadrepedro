@@ -1,13 +1,13 @@
 {
   "stream_url": "https://casthttps.suaradionanet.net/10070/stream?1782322075169",
-  "app_name": "Rádio Padre Pedro FM",
-  "logo_url": "https://i.ibb.co/pqx30nj/logodaradio-removebg-preview.png",
-  "background_url": "https://i.ibb.co/XrdXJhV3/bg-image-musicmix.jpg",
-  "bg_tint_color": "#00254d",
-  "bg_tint_opacity": 0.05,
-  "live_badge_text": " Ao Vivo",
-  "live_badge_color": "#bb0c0c",
-  "accent_color": "#000d13",
+  "app_name": "Rádio Padre Pedro 104,9 FM",
+  "logo_url": "https://i.ibb.co/7hZhyLK/logodaradio-removebg-preview.png",
+  "background_url": "https://i.ibb.co/Cs6mfcPR/logoradiofundo02.jpg",
+  "bg_tint_color": "#013661",
+  "bg_tint_opacity": 0.70",
+  "live_badge_text": "Ao Vivo",
+  "live_badge_color": "#ff0000",
+  "accent_color": "#ff0000",
   "autoplay": true,
   "enable_banners": true,
   "enable_social": true,
@@ -18,13 +18,8 @@
   "enable_album_art": false,
   "enable_album_view": true,
   "banner_interval_ms": 7000,
-  "sponsor_label": "Colaboradores",
-  "tv_label": true,
- 
-"tv_url": "https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8",
-  "tv_label": "TV Ao Vivo",
- 
-"banners": [
+  "sponsor_label": "JPDIVULGACOESBS",
+  "banners": [
     {
       "title": "PATROCINADOR 1",
       "subtitle": "Clique e fale no WhatsApp",
