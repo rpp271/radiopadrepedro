@@ -1,12 +1,12 @@
 {
-  "stream_url": "https://cast7.midiazdx.com.br:7050/stream?1783606827560",
-  "app_name": "Music Mix",
-  "logo_url": "https://i.ibb.co/JRvGpjmb/mix-removebg-preview.png",
-  "background_url": "https://i.ibb.co/JFWqxh1m/fundo-musicmix.jpg",
-  "bg_tint_color": "#0a0101",
-  "bg_tint_opacity": 0.40,
+  "stream_url": "http://media-ice.musicradio.com/HeartLondonMP3",
+  "app_name": "Music MIx",
+  "logo_url": "https://i.ibb.co/5W4KB1ct/Gemini-Generated-Image-45m0kt45m0kt45m0.png",
+  "background_url": "https://i.ibb.co/wNnjw8cg/74b3756dd309c326404cb9c440679034.jpg",
+  "bg_tint_color": "#00254d",
+  "bg_tint_opacity": 0.05,
   "live_badge_text": " Ao Vivo",
-  "live_badge_color": "#ff2e2e",
+  "live_badge_color": "#09001d",
   "accent_color": "#000d13",
   "autoplay": true,
   "enable_banners": true,
@@ -21,7 +21,7 @@
   "sponsor_label": "Colaboradores",
 
   "enable_tv": true,
-  "tv_url": "https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8",
+  "tv_url": "https://video11.logicahost.com.br/interativafm01/interativafm01/chunklist_w1032489035.m3u8",
   "tv_label": "TV Ao Vivo",
 
   "banners": [
@@ -30,7 +30,7 @@
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
       "text_color": "#000000",
-      "image_url": "https://i.ibb.co/TDy51QBR/musicmix2.jpg",
+      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
       "click_url": " "
     },
     {
@@ -38,7 +38,7 @@
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
       "text_color": "#000000",
-      "image_url": "https://i.ibb.co/vvj27MSD/musicmix0.jpg",
+      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
       "click_url": ""
     },
     {
@@ -46,7 +46,7 @@
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
       "text_color": "#000000",
-      "image_url": "https://i.ibb.co/5xRQRLG1/musicmix1.jpg",
+      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
       "click_url": "https://"
     },
     {
@@ -54,7 +54,7 @@
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
       "text_color": "#000000",
-      "image_url": "https://i.ibb.co/TDy51QBR/musicmix2.jpg",
+      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
       "click_url": "https://wa.me/"
     },
     {
@@ -70,15 +70,11 @@
   "social_icons": [
     {
       "icon": "whatsapp",
-      "url": "https://wa.me/5588988553032"
+      "url": "https://wa.me/55"
     },
-}  "enable_tv": true,
-  "tv_url": "https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8",
-  "tv_label": "TV Ao Vivo",
-{
     {
-      "icon": "website",
-      "url": "https://player.midiazdx.com.br/player-app-multi-plataforma/7050?app-multi=1773258333"
+      "icon": "instagram",
+      "url": "https://www.instagram.com/"
     }
   ]
 }
