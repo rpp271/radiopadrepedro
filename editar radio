@@ -1,10 +1,10 @@
 {
-  "stream_url": "https://casthttps.suaradionanet.net/10070/stream?1782322075169",
-  "app_name": "Rádio Padre Pedro FM",
-  "logo_url": "https://i.ibb.co/r2xYrRCj/logodaradio-removebg-preview.png",
-  "background_url": "https://i.ibb.co/f7MGV6w/padrepedrofm104.jpg",
+  "stream_url": "http://suaradio2.dyndns.ws:10070/live",
+  "app_name": "Rádio Padre Pedro 104,9 FM",
+  "logo_url": "https://i.ibb.co/spKhGGMd/ba1ca8ec-965a-407a-92c2-e05842a91f41.jpg",
+  "background_url": "https://i.ibb.co/gbn8M1dR/8a29d543b2ece2079b9e1d3f8e71857b.jpg",
   "bg_tint_color": "#00254d",
-  "bg_tint_opacity": 0.20,
+  "bg_tint_opacity": 0.70,
   "live_badge_text": " Ao Vivo",
   "live_badge_color": "#bb0c0c",
   "accent_color": "#000d13",
@@ -18,14 +18,14 @@
   "enable_album_art": false,
   "enable_album_view": true,
   "banner_interval_ms": 7000,
-  "sponsor_label": "JPDIVULGACOESBS",
+  "sponsor_label": "Colaboradores",
   "banners": [
     {
       "title": "PATROCINADOR 1",
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
       "text_color": "#000000",
-      "image_url": "https://i.ibb.co/Q3rpBJcJ/amigao01.jpg",
+      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
       "click_url": " "
     },
     {
@@ -33,7 +33,7 @@
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
       "text_color": "#000000",
-      "image_url": "https://i.ibb.co/xtHxh5yw/fatmaciasantacecilia.jpg",
+      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
       "click_url": ""
     },
     {
@@ -41,7 +41,7 @@
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
       "text_color": "#000000",
-      "image_url": "https://i.ibb.co/CphyMxwk/marcenart02.jpg",
+      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
       "click_url": "https://"
     },
     {
@@ -49,7 +49,7 @@
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
       "text_color": "#000000",
-      "image_url": "https://i.ibb.co/zTt0sBq6/mercadinhosaoluis.jpg",
+      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
       "click_url": "https://wa.me/"
     },
     {
@@ -74,11 +74,8 @@
 
 {
       "icon": "youtube",
-      "url": "https://video11.logicahost.com.br/interativafm01/interativafm01/chunklist_w1032489035.m3u8"
+      "url": "https://www.youtube.com/@jpdivulgacoesbs00"
     }
   ]
-{
-      "icon": "webtv",
-      "url": "https://video11.logicahost.com.br/interativafm01/interativafm01/chunklist_w1032489035.m3u8"
-    }
 }
+
