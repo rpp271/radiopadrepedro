@@ -1,12 +1,12 @@
 {
   "stream_url": "https://casthttps.suaradionanet.net/10070/stream?1782322075169",
-  "app_name": "Rádio Padre Pedro FM",
-  "logo_url": "https://i.ibb.co/r2xYrRCj/logodaradio-removebg-preview.png",
+  "app_name": "Rádio Padre Pedro 104,9 FM",
+  "logo_url": "https://i.ibb.co/zT89rJxh/ligodaradioemclimadecopa-removebg-preview.png",
   "background_url": "https://i.ibb.co/f7MGV6w/padrepedrofm104.jpg",
   "bg_tint_color": "#00254d",
-  "bg_tint_opacity": 0.20,
-  "live_badge_text": " AO VIVO",
-  "live_badge_color": "#e32d2d",
+  "bg_tint_opacity": 0.70,
+  "live_badge_text": " Ao Vivo",
+  "live_badge_color": "#bb0c0c",
   "accent_color": "#000d13",
   "autoplay": true,
   "enable_banners": true,
@@ -18,12 +18,7 @@
   "enable_album_art": false,
   "enable_album_view": true,
   "banner_interval_ms": 7000,
-  "sponsor_label": "Colaboradores",
-
-  "enable_tv": true,
-  "tv_url": "https://video11.logicahost.com.br/interativafm01/interativafm01/chunklist_w1032489035.m3u8",
-  "tv_label": "TV Ao Vivo",
-
+  "sponsor_label": "JPDIVULGACOESBS",
   "banners": [
     {
       "title": "PATROCINADOR 1",
@@ -62,27 +57,24 @@
       "subtitle": "",
       "bg_color": "#111111",
       "text_color": "#FFFFFF",
-      "image_url": "https://i.ibb.co/sdvLLcyS/georgesompropagandas.jpg",
+      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
       "click_url": "https://youtube.com/"
     }
+   
   ],
-
   "social_icons": [
     {
       "icon": "whatsapp",
       "url": "https://wa.me/558899988-3599"
     },
- {
-      "icon": "webtv",
-      "url": "https://video11.logicahost.com.br/interativafm01/interativafm01/chunklist_w1032489035.m3u8"
-    }
-  {
-      "icon": "youtube",
-      "url": "https://www.youtube.com/@PadrePedroFMdeBrejoSanto/streams"
-    }
     {
       "icon": "instagram",
       "url": "https://www.instagram.com/radiopadrepedrofm/"
+    },
+
+{
+      "icon": "youtube",
+      "url": "https://www.youtube.com/@PadrePedroFMdeBrejoSanto/streams"
     }
   ]
 }
