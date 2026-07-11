@@ -5,7 +5,7 @@
   "background_url": "https://i.ibb.co/237R9KyL/bg-image.jpg",
   "bg_tint_color": "#00254d",
   "bg_tint_opacity": 0.05,
-  "live_badge_text": " AO VIVO",
+  "live_badge_text": "AO VIVO",
   "live_badge_color": "#01453c",
   "accent_color": "#000d13",
   "autoplay": true,
