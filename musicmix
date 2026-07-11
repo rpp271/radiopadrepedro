@@ -21,7 +21,7 @@
   "sponsor_label": "Colaboradores",
 
   "enable_tv": true,
-  "tv_url": "https://stmv1.srvif.com/animetv/animetv/playlist.m3u8",
+  "tv_url": "http://95.141.35.86:8081/look/sptvl/playlist.m3u8",
   "tv_label": "TV Ao Vivo",
 
   "banners": [
