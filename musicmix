@@ -21,7 +21,7 @@
   "sponsor_label": "Colaboradores",
 
   "enable_tv": true,
-  "tv_url": "https://pt.scribd.com/document/378860771/lista-m3u",
+  "tv_url": "https://stmv1.srvif.com/animetv/animetv/playlist.m3u8",
   "tv_label": "TV Ao Vivo",
 
   "banners": [
