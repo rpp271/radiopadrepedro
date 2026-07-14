@@ -25,11 +25,19 @@
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
       "text_color": "#000000",
+      "image_url": "https://i.ibb.co/1GgF60Gg/LUIZAEEDILEUZA01.jpg",
+      "click_url": "https://wa.me/5588996125957"
+    },
+  {
+      "title": "PATROCINADOR 2",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
       "image_url": "https://i.ibb.co/Z1fzDtdh/mercadinhosaoluis123.jpg",
       "click_url": "https://wa.me/5588996125957"
     },
     {
-      "title": "PATROCINADOR 2",
+      "title": "PATROCINADOR 3",
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
       "text_color": "#000000",
@@ -37,7 +45,7 @@
       "click_url": "https://wa.me/5588997161243"
     },
     {
-      "title": "PATROCINADOR 3",
+      "title": "PATROCINADOR 4",
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
       "text_color": "#000000",
@@ -46,19 +54,27 @@
     },
    
  {
-      "title": "PATROCINADOR 1",
+      "title": "PATROCINADOR 5",
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
       "text_color": "#000000",
       "image_url": "https://i.ibb.co/TDTvVNV9/farmaciasantacecilia123.jpg",
       "click_url": "https://wa.me/5588998114829"
     },
+ {
+      "title": "PATROCINADOR 5",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/PXsNRSR/oticacardosoteste4.jpg",
+      "click_url": "https://wa.me/5588999097840"
+    },
     {
       "title": "",
       "subtitle": "",
       "bg_color": "#111111",
       "text_color": "#06403a",
-      "image_url": "https://i.ibb.co/PXsNRSR/oticacardosoteste4.jpg",
+      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
       "click_url": "https://youtube.com/"
     }
    
