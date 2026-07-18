@@ -71,7 +71,7 @@
     }
 {
       "icon": "youtube",
-      "url": "www.youtube.com/@musicmixnet"
-    }
+"click_url": "https://youtube.com/@musicmixne"
+}
 ]
 }
