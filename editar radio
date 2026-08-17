@@ -71,21 +71,8 @@
       "image_url": "https://i.ibb.co/PXsNRSR/oticacardosoteste4.jpg",
       "click_url": "https://wa.me/5588999097840"
     },
- {
-      "title": "PATROCINADOR 5",
-      "subtitle": "Clique e fale no WhatsApp",
-      "bg_color": "#FDCB03",
-      "text_color": "#000000",
-      "image_url": "https://i.ibb.co/x82tj1Gt/verduraosaofrancisco.jpg",
-      "click_url": "https://wa.me/5588999697945"
-    },
-    {
-      "title": "",
-      "subtitle": "",
-      "bg_color": "#111111",
-      "text_color": "#06403a",
-      "image_url": "https://i.ibb.co/RkpGXFnV/LOGORADIO98.jpg",
-      "click_url": "https://youtube.com/"
+
+  _url": "https://youtube.com/"
     }
    
   ],
