@@ -8,20 +8,7 @@
   "live_badge_text": " Ao Vivo",
   "live_badge_color": "#bb0c0c",
   "accent_color": "#000d13",
-  "autoplay": true,
-  "enable_banners": true,
-  "enable_social": true,
-  "enable_recording": true,
-  "enable_timer": true,
-  "enable_volume_bar": true,
-  "enable_metadata": true,
-  "enable_album_art": false,
-  "enable_album_view": true,
-  "banner_interval_ms": 7000,
-  "sponsor_label": "Colaboradores",
-  "banners": [
-   
-  
+
   ],
   "social_icons": [
     {
