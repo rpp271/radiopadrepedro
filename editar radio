@@ -2,9 +2,9 @@
   "stream_url": "http://suaradio2.dyndns.ws:10070/live",
   "app_name": "Rádio Padre Pedro 104,9 FM",
   "logo_url": "https://i.ibb.co/xqmQqbrn/logomarcaradiopadrepedrofm-removebg-preview.png",
-  "background_url": "https://i.ibb.co/PGNs40r4/f621369f-3141-4d10-9b20-5ef60305a45f.jpg",
+  "background_url": "https://i.ibb.co/f7MGV6w/padrepedrofm104.jpg",
   "bg_tint_color": "#00254D",
-  "bg_tint_opacity": 0.35,
+  "bg_tint_opacity": 0.45,
   "live_badge_text": " Ao Vivo",
   "live_badge_color": "#bb0c0c",
   "accent_color": "#000d13",
@@ -38,7 +38,14 @@
       "image_url": "https://i.ibb.co/Q3rpBJcJ/amigao01.jpg",
       "click_url": "https://wa.me/5588997161243"
     },
-
+ {
+      "title": "PATROCINADOR 1",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/1GgF60Gg/LUIZAEEDILEUZA01.jpg",
+      "click_url": "https://wa.me/5588996125957"
+    },
     {
       "title": "PATROCINADOR 4",
       "subtitle": "Clique e fale no WhatsApp",
@@ -64,7 +71,14 @@
       "image_url": "https://i.ibb.co/PXsNRSR/oticacardosoteste4.jpg",
       "click_url": "https://wa.me/5588999097840"
     },
-
+ {
+      "title": "PATROCINADOR 5",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/x82tj1Gt/verduraosaofrancisco.jpg",
+      "click_url": "https://wa.me/5588999697945"
+    },
     {
       "title": "",
       "subtitle": "",
