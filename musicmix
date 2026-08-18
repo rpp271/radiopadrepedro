@@ -18,7 +18,7 @@
   "enable_album_art": false,
   "enable_album_view": true,
   "banner_interval_ms": 7000,
-  "sponsor_label": "Colaboradores",
+  "sponsor_label": "jpdivulgacoesbs",
 
   "enable_tv": true,
   "tv_url": "https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/chunklist_w1255918888.m3u8",
