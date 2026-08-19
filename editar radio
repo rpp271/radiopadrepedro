@@ -1,7 +1,7 @@
 {
-  "stream_url": "https://cast7.midiazdx.com.br:7050/stream",
-  "app_name": " Music Mix",
-  "logo_url": "https://i.ibb.co/dyJw02j/musicmixouviugostou.jpg",
+  "stream_url": "http://suaradio2.dyndns.ws:10070/live",
+  "app_name": " Rádio Padre Pedro FM",
+  "logo_url": "https://i.ibb.co/xqmQqbrn/logomarcaradiopadrepedrofm-removebg-preview.png",
   "background_url": "https://i.ibb.co/8LfWysWQ/blockmanmusicmix.jpg",
   "bg_tint_color": "#021821",
   "bg_tint_opacity": 0.95,
