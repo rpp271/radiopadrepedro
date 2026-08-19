@@ -1,12 +1,12 @@
 {
   "stream_url": "http://suaradio2.dyndns.ws:10070/live",
-  "app_name": " Rádio Padre Pedro FM",
+  "app_name": "Rádio Padre Pedro 104,9 FM",
   "logo_url": "https://i.ibb.co/xqmQqbrn/logomarcaradiopadrepedrofm-removebg-preview.png",
   "background_url": "https://i.ibb.co/f7MGV6w/padrepedrofm104.jpg",
-  "bg_tint_color": "#021821",
-  "bg_tint_opacity": 0.65,
-  "live_badge_text": "AO VIVO",
-  "live_badge_color": "#f50202",
+  "bg_tint_color": "#00254D",
+  "bg_tint_opacity": 0.45,
+  "live_badge_text": " Ao Vivo",
+  "live_badge_color": "#bb0c0c",
   "accent_color": "#000d13",
   "autoplay": true,
   "enable_banners": true,
@@ -18,9 +18,12 @@
   "enable_album_art": false,
   "enable_album_view": true,
   "banner_interval_ms": 7000,
-  "sponsor_label": "jpdivulgacoesbs",
+  "sponsor_label": "Jpdivulgacoesbs",
+  "banners": [
+   
+ 
 
-{
+    {
       "title": "PATROCINADOR 3",
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
@@ -29,8 +32,25 @@
       "click_url": "https://wa.me/5588997161243"
     },
 
+    {
+      "title": "PATROCINADOR 4",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/RphGVd5c/marcenartmoveissobmedida01.jpg",
+      "click_url": "https://wa.me/5588996297530"
+    },
+   
 
-_url": "https://youtube.com/"
+
+
+    {
+      "title": "",
+      "subtitle": "",
+      "bg_color": "#111111",
+      "text_color": "#06403a",
+      "image_url": "https://i.ibb.co/RkpGXFnV/LOGORADIO98.jpg",
+      "click_url": "https://youtube.com/"
     }
    
   ],
