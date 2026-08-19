@@ -1,11 +1,11 @@
 {
-  "stream_url": "https://casthttps.suaradionanet.net/10070/stream",
-  "app_name": "Rádio Padre Pedro 104,9 FM",
-  "logo_url": "https://i.ibb.co/xqmQqbrn/logomarcaradiopadrepedrofm-removebg-preview.png",
-  "background_url": "https://i.ibb.co/PGNs40r4/f621369f-3141-4d10-9b20-5ef60305a45f.jpg",
+  "stream_url": "https://cast7.midiazdx.com.br:7050/stream",
+  "app_name": " Music Mix",
+  "logo_url": "https://i.ibb.co/dyJw02j/musicmixouviugostou.jpg",
+  "background_url": "https://i.ibb.co/8LfWysWQ/blockmanmusicmix.jpg",
   "bg_tint_color": "#021821",
-  "bg_tint_opacity": 0.75,
-  "live_badge_text": " Ao Vivo",
+  "bg_tint_opacity": 0.95,
+  "live_badge_text": "AO VIVO",
   "live_badge_color": "#f50202",
   "accent_color": "#000d13",
   "autoplay": true,
@@ -19,8 +19,6 @@
   "enable_album_view": true,
   "banner_interval_ms": 7000,
   "sponsor_label": "jpdivulgacoesbs",
-  "banners": [
-
 
   _url": "https://youtube.com/"
     }
