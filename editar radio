@@ -20,7 +20,16 @@
   "banner_interval_ms": 7000,
   "sponsor_label": "jpdivulgacoesbs",
 
- 
+{
+      "title": "PATROCINADOR 3",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/Q3rpBJcJ/amigao01.jpg",
+      "click_url": "https://wa.me/5588997161243"
+    },
+
+
 _url": "https://youtube.com/"
     }
    
