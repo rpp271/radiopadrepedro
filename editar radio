@@ -31,14 +31,6 @@
       "image_url": "https://i.ibb.co/Q3rpBJcJ/amigao01.jpg",
       "click_url": "https://wa.me/5588997161243"
     },
- {
-      "title": "PATROCINADOR 2",
-      "subtitle": "Clique e fale no WhatsApp",
-      "bg_color": "#FDCB03",
-      "text_color": "#000000",
-      "image_url": "https://i.ibb.co/1GgF60Gg/LUIZAEEDILEUZA01.jpg",
-      "click_url": "https://wa.me/5588996125957"
-    },
 
     {
       "title": "PATROCINADOR 3",
@@ -57,6 +49,14 @@
       "image_url": "https://i.ibb.co/RkpGXFnV/LOGORADIO98.jpg",
       "click_url": "https://youtube.com/"
     }
+ {
+      "title": "PATROCINADOR 2",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/1GgF60Gg/LUIZAEEDILEUZA01.jpg",
+      "click_url": "https://wa.me/5588996125957"
+    },
    
   ],
   "social_icons": [
