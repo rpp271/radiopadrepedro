@@ -4,7 +4,7 @@
   "logo_url": "https://i.ibb.co/3m4Qq1CF/a3dfecc8-85dc-4a0c-8351-073704c527dd-removebg-preview.png",
   "background_url": "https://i.ibb.co/PzWTkjrT/951e30b6-d4fd-4938-bda8-62481d9019da.jpg",
   "bg_tint_color": "#021821",
-  "bg_tint_opacity": 0.65,
+  "bg_tint_opacity": 0.75,
   "live_badge_text": "AO VIVO",
   "live_badge_color": "#f50202",
   "accent_color": "#000d13",
@@ -17,7 +17,7 @@
   "enable_metadata": true,
   "enable_album_art": false,
   "enable_album_view": true,
-  "banner_interval_ms": 8000,
+  "banner_interval_ms": 7000,
   "sponsor_label": "jpdivulgacoesbs",
 
   "enable_tv": true,
