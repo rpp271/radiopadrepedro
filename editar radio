@@ -28,13 +28,13 @@
       "image_url": "https://i.ibb.co/Q3rpBJcJ/amigao01.jpg",
       "click_url": " "
     },
-    {
-      "title": "PATROCINADOR 2",
+   {
+      "title": "PATROCINADOR 4",
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
       "text_color": "#000000",
-      "image_url": "https://i.ibb.co/xtHxh5yw/fatmaciasantacecilia.jpg",
-      "click_url": ""
+      "image_url": "https://i.ibb.co/RphGVd5c/marcenartmoveissobmedida01.jpg",
+      "click_url": "https://wa.me/5588996297530"
     },
     {
       "title": "PATROCINADOR 3",
@@ -44,22 +44,22 @@
       "image_url": "https://i.ibb.co/CphyMxwk/marcenart02.jpg",
       "click_url": "https://"
     },
-    {
-      "title": "PATROCINADOR 4",
+   {
+      "title": "PATROCINADOR 5",
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
       "text_color": "#000000",
-      "image_url": "https://i.ibb.co/zTt0sBq6/mercadinhosaoluis.jpg",
-      "click_url": "https://wa.me/"
+      "image_url": "https://i.ibb.co/PXsNRSR/oticacardosoteste4.jpg",
+      "click_url": "https://wa.me/5588999097840"
     },
     {
-      "title": "",
-      "subtitle": "",
-      "bg_color": "#111111",
-      "text_color": "#FFFFFF",
-      "image_url": "https://i.ibb.co/sdvLLcyS/georgesompropagandas.jpg",
-      "click_url": "https://youtube.com/"
-    }
+      "title": "PATROCINADOR 5",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/PXsNRSR/oticacardosoteste4.jpg",
+      "click_url": "https://wa.me/5588999097840"
+    },
    
   ],
   "social_icons": [
