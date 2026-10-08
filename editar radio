@@ -1,10 +1,10 @@
 {
   "stream_url": "https://casthttps.suaradionanet.net/10070/stream",
-  "app_name": "Rádio Padre Pedro 104,9 FM",
+  "app_name": "Rádio Padre Pedro FM",
   "logo_url": "https://i.ibb.co/bgTwfP7q/311060b3-3a39-4ed7-9bdb-8624fdbfb8c9.jpg",
   "background_url": "https://i.ibb.co/jSVzJTq/50d24f61-cd2c-41db-9858-55d97a31022c.jpg",
-  "bg_tint_color": "#00254D",
-  "bg_tint_opacity": 0.75,
+  "bg_tint_color": "#00254d",
+  "bg_tint_opacity": 0.70,
   "live_badge_text": " Ao Vivo",
   "live_badge_color": "#bb0c0c",
   "accent_color": "#000d13",
@@ -18,10 +18,11 @@
   "enable_album_art": false,
   "enable_album_view": true,
   "banner_interval_ms": 7000,
-  "sponsor_label": "Jpdivulgacoesbs",
+  "sponsor_label": "JPDIVULGACOESBS",
   "banners": [
    
-   {
+ 
+{
       "title": "PATROCINADOR 1",
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
